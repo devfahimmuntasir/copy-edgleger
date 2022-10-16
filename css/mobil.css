@@ -43,7 +43,8 @@
     flex-direction: column;
   }
   #contact .map {
-    height: 200px;
+    flex: unset;
+    height: 300px;
     border-top: 5px #333 solid;
   }
 }
